@@ -1,0 +1,14 @@
+{
+  "name": "foreignaid_utils",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "2.11.x",
+    "xml2js": "0.2.x",
+    "mongo": "0.1.x",
+    "mongojs": "0.4.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
