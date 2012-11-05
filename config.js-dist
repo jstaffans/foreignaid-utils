@@ -1,0 +1,5 @@
+var config = {}
+
+config.mongoUrl = "***"; 
+
+module.exports = config;
